@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:grantUriPermissions
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:31:13-47
+	android:authorities
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:29:13-60
+	android:exported
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:28:13-67
+manifest
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\7f4557690a6d68c0792d9a8c549c3352\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8211b897e12d84b284e73336c7666f24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\5cac5e1552690692b02203c2893a165e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b70b751398431fea32a801ef52143ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\09928a81e8bea33065b9365057fc074a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\8673e7bd40c6bbadc2e6a7f318d640f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\38394dab41dc60160edb2b1dff2613de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\726810b8e4a5db7c25b62647c6a5bb0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f7497a582818af18e28be9aeb2f61ffb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\8e4abbdeeb2f5fe8925221b7cb22506e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\bb2179a87e4ce87ae9fbcd1f79bc82e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\be35cb2f074f8f44cc2b9cd1fcdc1b99\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7a05340d516800f01d3481d82ab59286\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:7:22-62
+application
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:9:5-36:19
+	android:supportsRtl
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.google.project.imager.MainActivity
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:16:13-49
+	android:label
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:17:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\7f4557690a6d68c0792d9a8c549c3352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\7f4557690a6d68c0792d9a8c549c3352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8211b897e12d84b284e73336c7666f24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\8211b897e12d84b284e73336c7666f24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\5cac5e1552690692b02203c2893a165e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\5cac5e1552690692b02203c2893a165e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b70b751398431fea32a801ef52143ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\b70b751398431fea32a801ef52143ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\09928a81e8bea33065b9365057fc074a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\09928a81e8bea33065b9365057fc074a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\8673e7bd40c6bbadc2e6a7f318d640f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\8673e7bd40c6bbadc2e6a7f318d640f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\38394dab41dc60160edb2b1dff2613de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\38394dab41dc60160edb2b1dff2613de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\726810b8e4a5db7c25b62647c6a5bb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\726810b8e4a5db7c25b62647c6a5bb0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f7497a582818af18e28be9aeb2f61ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\f7497a582818af18e28be9aeb2f61ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\8e4abbdeeb2f5fe8925221b7cb22506e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\8e4abbdeeb2f5fe8925221b7cb22506e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\bb2179a87e4ce87ae9fbcd1f79bc82e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\bb2179a87e4ce87ae9fbcd1f79bc82e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\be35cb2f074f8f44cc2b9cd1fcdc1b99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\be35cb2f074f8f44cc2b9cd1fcdc1b99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7a05340d516800f01d3481d82ab59286\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Ashutosh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\7a05340d516800f01d3481d82ab59286\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:32:13-34:57
+	android:resource
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:34:17-55
+	android:name
+		ADDED from C:\Users\Ashutosh\Documents\GitHub\ImageR\app\src\main\AndroidManifest.xml:33:17-67
