@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.sample.cloudvision"
+    package="com.ashutosh.project.imager"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -21,20 +21,24 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.google.project.imager.MainActivity"
-            android:label="@string/app_name"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar" >
+            android:name="com.ashutosh.project.imager.SplashActivity"
+            android:theme="@style/SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.ashutosh.project.imager.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Base.Theme.AppCompat.Light.DarkActionBar" >
+        </activity>
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.google.sample.cloudvision.provider"
+            android:authorities="com.ashutosh.project.imager.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -43,7 +47,7 @@
         </provider>
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="com.google.sample.cloudvision.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.ashutosh.project.imager.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 
