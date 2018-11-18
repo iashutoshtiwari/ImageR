@@ -29,7 +29,6 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.v4.content.FileProvider;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -72,7 +71,6 @@ public class MainActivity extends AppCompatActivity {
     private static final int GALLERY_IMAGE_REQUEST = 1;
     public static final int CAMERA_PERMISSIONS_REQUEST = 2;
     public static final int CAMERA_IMAGE_REQUEST = 3;
-
     private TextView mImageDetails;
     private ImageView mMainImage;
 
